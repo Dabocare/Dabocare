@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #333333;
+}
+.banderas{
+    background-color: #cccccc;
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+    float: left;
+}
+.Ale1{
+    background-color: black;
+    height: 33.33%;
+}
+.Ale2{
+    background-color:#dd0000;
+    height: 33.33%;
+}
+.Ale3{
+    background-color:#ffce00;
+    height: 33.33%;
+}
+.Fra1{
+    background-color:rgb(0,35,149);
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.Fra2{
+    background-color:white;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.Fra3{
+    background-color:rgb(237,41,57);
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.Esp1{
+    background-color: red;
+    height: 25%;
+}
+.Esp2{
+    background-color:gold;
+    height: 50%;
+}
+.Bel1{
+    background-color:black;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.Bel2{
+    background-color:gold;
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.Bel3{
+    background-color:rgb(237,41,57);
+    width: 33.33%;
+    height: 100%;
+    float: left;
+}
+.eau1{
+    background-color:red;
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.eau2{
+    background-color: green;
+    height: 33.33%;
+}
+.eau3{
+    background-color:white;
+    height: 33.33%;
+}
+.eau4{
+    background-color:black;
+    height: 33.33%;
+}
+.Col1{
+    background-color: gold;
+    height: 33.33%;
+}
+.Col2{
+    background-color:Blue;
+    height: 33.33%;
+}
+.Col3{
+    background-color:red;
+    height: 33.33%;
+}
+.can1{
+    background-color:red;
+    height: 300px;
+    width: 137px;
+    float: left;
+}
+.can2{
+    background-color:white;
+    height: 299px;
+    width: 225px;
+    float: left;
+    padding-left:10px;
+    padding-top: 50px;
+}
+.mapleleaf{
+    width: 200px;
+
+
+
+
+}
+
